@@ -1,0 +1,25 @@
+
+.hero {
+    background-color: #101827;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero h1 {
+    font-size: 45px;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #cccccc;
+}
+
+.hero a {
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 8px;
+}
