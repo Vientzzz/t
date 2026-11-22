@@ -1,25 +1,16 @@
-
-.hero {
-    background-color: #101827;
-    color: white;
+body {
     text-align: center;
-    padding: 100px 20px;
+    background-color: #1A1A1A;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 20px ;
 }
-
-.hero h1 {
-    font-size: 45px;
+h1 {
+    background-color: rgb(0, 255, 17);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
 }
-
-.hero p {
-    font-size: 18px;
-    color: #cccccc;
-}
-
-.hero a {
-    display: inline-block;
-    background-color: blue;
-    color: white;
-    padding: 12px 25px;
-    text-decoration: none;
-    border-radius: 8px;
+p {
+    background-color: aliceblue;
 }
